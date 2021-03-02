@@ -1,4 +1,4 @@
-# Client-Server-Trading-System-using-socket-programming-in-C
+# Automated Trading System (Stock Market)
 
 A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of
 traders who will trade with each other in the automated system. There will be a Server which will register
